@@ -1,0 +1,8 @@
+nome = input ('Informe seu nome')
+idade = input ('Informe sua idade')
+altura = input ('Informe sua altura')
+cidade_natal = input ('Informe sua cidade natal')
+print ('nome')
+print ('idade')
+print ('altura')
+print ('cidade_natal')
